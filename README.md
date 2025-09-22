@@ -1,7 +1,7 @@
 # Teletext Archive
 A collection of teletext pages from different broadcasters. These pages have been recovered primarily from tape-based media like VHS and Betamax.
 
-![](O:\teletext-archive-github\assets\carousel.gif)
+![](assets/carousel.gif)
 
 
 
